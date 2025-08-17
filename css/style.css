@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 80px;
+    padding: 10px;
+    font-family: Impact,sans-serif;
+}
+p{
+    font-size: 35px;
+    padding: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color:#355E3B;
+}
